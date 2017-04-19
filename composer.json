@@ -3,7 +3,7 @@
     "description": "php qrcode",
     "license": "MIT",
     "keywords": ["qrcode qcode"],
-    "version": "dev-master",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "cannon",
